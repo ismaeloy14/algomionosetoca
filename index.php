@@ -16,6 +16,7 @@ and open the template in the editor.
                    echo "En el constructor BaseClass";
                    
                    $algo = 3;
+                   $ordenaador = "ordenador";
                 
    }
 }
