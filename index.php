@@ -21,12 +21,7 @@ and open the template in the editor.
                 
    }
 }
-                function fantasma(){
-                    $sumafantasma = 0;
-                    for ($i=0;$i<=20;$i++){
-                        $sumafantasma = $sumafantasma + 5 +$i;
-                    }
-                }
+
 
         ?>
     </body>
