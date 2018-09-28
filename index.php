@@ -17,6 +17,7 @@ and open the template in the editor.
                    
                    $algo = 3;
                    $ordenaador = "ordenador";
+                   $suma = 3+4;
                 
    }
 }
