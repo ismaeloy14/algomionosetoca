@@ -15,7 +15,7 @@ and open the template in the editor.
                function __construct() {
                    echo "En el constructor BaseClass";
                    
-                   
+                   $algo = 3;
                 
    }
 }
